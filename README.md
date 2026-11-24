@@ -51,7 +51,7 @@ It was built to quickly check value-list websites such as Blox Fruits value site
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/ValueDesk.git
+git clone https://github.com/Celestialus/ValueDesk.git
 cd ValueDesk
 
 # Install dependencies
